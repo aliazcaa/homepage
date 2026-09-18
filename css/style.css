@@ -59,8 +59,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   width: 260px;
   flex-shrink: 0;
   position: sticky;
-  top: 40px;
-  padding-top: 72px;
+  top: 20px;
+  padding-top: 12px;
 }
 
 .sidebar-label {
