@@ -96,7 +96,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 
 .main-column .wrap {
-  margin: 0 auto;
+  margin: 0;
   max-width: var(--content-width);
   padding: 0 0 96px;
 }
