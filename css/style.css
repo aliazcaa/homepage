@@ -120,14 +120,14 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .hero {
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
+  align-items: center;
   gap: 12px 20px;
 }
 
 .hero h1 {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: 48px;
+  font-size: 56px;
   margin: 0;
   letter-spacing: 0.2px;
   min-height: 44px;
